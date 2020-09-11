@@ -4,7 +4,7 @@
 
 First of all, many thanks to mehanik6@4PDA for providing the T295 device tree!!!
 
-Skyhawk Setup use this guide to setup for skyhawk folder:
+<b>Skyhawk Setup:</b> use this guide to setup for skyhawk folder:
 
 https://skyhawk-recovery-project.github.io/#/guide
 
