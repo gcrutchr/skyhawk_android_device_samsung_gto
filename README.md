@@ -19,7 +19,9 @@ roomservice.xml file (click 'raw') to see file contents:
 
 mkdir .repo/local_manifests
 copy the roomservice.xml contents (5 lines) to ~/skyhawk/.repo/local_manifests/roomservice.xml
+
 cd ~/skyhawk
+
 repo sync (will take awhile to sync) maybe go have a coffee somwhere
 
 SkyHawk Build
