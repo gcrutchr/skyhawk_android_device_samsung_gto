@@ -1,6 +1,6 @@
 
 
-SkyHawk Recovery for SM-T295
+<b>SkyHawk Recovery for SM-T295</b>
 
 First of all, many thanks to mehanik6@4PDA for providing the T295 device tree!!!
 
@@ -26,7 +26,7 @@ cd ~/skyhawk
 
 repo sync (will take awhile to sync) maybe go have a coffee somwhere
 
-SkyHawk Build
+<b>SkyHawk Build</b>
 
 cd skyhawk
 
@@ -60,6 +60,6 @@ After flash, shutdown device. Press Vol-Up + Pwr keys
 
 You should get into SkyHawk Recovery
 
-WHAT IS NOT WORKING:
+<b>WHAT IS NOT WORKING:</b>
 
 MTP
