@@ -40,9 +40,11 @@ select omni_gto-eng
 
 type: mka recoveryimage
 
-If successful, recovery.img is in out/target/product/gto Copy recovery.img to your device
+If successful, recovery.img is in out/target/product/gto 
 
-SkyHawk Install
+Copy recovery.img to your device
+
+<b>SkyHawk Install</b>
 
 Go to play store and install Official TWRP Manager
 
