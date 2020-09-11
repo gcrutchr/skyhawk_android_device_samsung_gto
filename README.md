@@ -9,7 +9,7 @@ https://skyhawk-recovery-project.github.io/#/guide
 
 You will need to add this file to your repo BEFORE you sync:
 
-roomservice.xml file:
+roomservice.xml file (click 'raw') to see file contents:
 
 <?xml version="1.0" encoding="UTF-8"?>
 
