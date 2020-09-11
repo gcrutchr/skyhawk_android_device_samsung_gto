@@ -18,9 +18,11 @@ roomservice.xml file (click 'raw' - upper right corner of page) to see file cont
   <project name="gcrutchr/android_device_samsung_gto" path="device/samsung/gto" revision="master" remote="github" />
 </manifest>
 
+cd ~/skyhawk
+
 mkdir .repo/local_manifests
 
-copy the roomservice.xml contents (5 lines) to ~/skyhawk/.repo/local_manifests/roomservice.xml
+create the roomservice.xml, with above contents (5 lines), in ~/skyhawk/.repo/local_manifests/roomservice.xml
 
 cd ~/skyhawk
 
