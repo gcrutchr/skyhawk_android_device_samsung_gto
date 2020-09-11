@@ -119,7 +119,7 @@ TW_EXCLUDE_SUPERSU := true
 #TW_MTP_DEVICE := /dev/usb_mtp_gadget 
 #TW_HAS_MTP := true
 
-TW_DEVICE_VERSION := 1-gcrutchr (xda-developers) SM-T295
+TW_DEVICE_VERSION := gcrutchr (xda-developers) SM-T295
 TW_NO_SCREEN_TIMEOUT := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_DEFAULT_LANGUAGE := en
